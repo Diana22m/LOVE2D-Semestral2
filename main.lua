@@ -1,5 +1,5 @@
 function love.load()
-    figuras = {}
+    figuras = {} ----se guardan los elementos de la tabla
 
     -- Creacion de los 20 círculos
     for i = 1, 20 do
